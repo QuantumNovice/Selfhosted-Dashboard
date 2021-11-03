@@ -3,4 +3,4 @@
 
 # Demo
 
-!(demo.jpg)[demo.jpg]
+![](demo.jpg)
